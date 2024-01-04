@@ -17,5 +17,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDllZzd5eWdhcW5sOTRqanF6dWpvejBwZThwbHJydmYzc2sxM3k1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mCPelbbJdH9gktpySI/giphy.gif" alt="Happy">
+  <img src="https://media.giphy.com/media/mBSU0tdU1DiuuvplEn/giphy.gif" alt="Happy">
 </p>
